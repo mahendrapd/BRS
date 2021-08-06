@@ -1,0 +1,12 @@
+
+Number of samples : 873
+Number of features : 19
+Confusion Matrix
+798	7	
+3	65	
+
+Labels and samples are : 
+801	normal
+
+72	attack
+
